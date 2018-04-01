@@ -1,0 +1,5 @@
+modelsim.ini
+*.log
+*.fsdb*
+transcript
+work
